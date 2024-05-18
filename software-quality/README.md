@@ -5,6 +5,7 @@
 
 ## Test Doubles
 - https://github.com/AnuchitO/highq/tree/main/double
+- slide: Keynote - "High Quality Testing with GO"
 
 
 ## TDD example TukTuk
